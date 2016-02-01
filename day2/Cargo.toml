@@ -2,5 +2,3 @@
 name = "day2"
 version = "0.1.0"
 authors = ["harrydevnull <hareendran.c.nair@gmail.com>"]
-
-[dependencies]
